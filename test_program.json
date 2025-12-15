@@ -1,0 +1,6 @@
+[
+  {"op": "load", "const": 312},
+  {"op": "read", "addr": 972},
+  {"op": "write", "addr": 95},
+  {"op": "rol", "addr": 720}
+]
